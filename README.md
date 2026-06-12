@@ -57,4 +57,4 @@ The dataset contains historical shooting incident records. Detailed information 
 - Accuracy : 85.05% and 85.16%
 
 ## Author
-Jasmeet Singh
+Bhoday Jasmeet Singh
