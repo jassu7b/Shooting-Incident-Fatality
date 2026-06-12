@@ -1,12 +1,12 @@
 # Shooting Incident Fatality
 
-## Project Overview
+# Project Overview
 This project aims to analyze shooting incident data and predict fatality outcomes using Machine Learning techniques. The objective is to identify key factors associated with fatal incidents and develop predictive models that can assist in data-driven decision-making and public safety research.
 
-##Problem Statement
+# Problem Statement
 Shooting incidents have significant social and public safety implications. By leveraging historical incident data, this project seeks to predict whether an incident is likely to result in fatalities based on various demographic, geographic, and incident-related factors.
 
-##Dataset
+# Dataset
 The dataset contains historical shooting incident records. Detailed information regarding the dataset with respect to each column is given in "description.txt" .
 
 ## Technologies Used
