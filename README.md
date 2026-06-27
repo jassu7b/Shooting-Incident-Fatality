@@ -52,9 +52,5 @@ The dataset contains historical shooting incident records. Detailed information 
 - Recall
 - F1-Score
 
-## Results
-- Best Model : Random Forest and XGBoost
-- Accuracy : 85.05% and 85.16%
-
 ## Author
 Bhoday Jasmeet Singh
